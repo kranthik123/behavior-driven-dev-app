@@ -1,0 +1,4 @@
+behave==1.2.6
+selenium==3.141.0
+webdriver-manager==2.3.0
+xmlrunner==1.7.7
